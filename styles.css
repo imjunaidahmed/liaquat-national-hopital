@@ -1,0 +1,141 @@
+.b select{
+    position: relative;
+    top: 25px;
+
+}
+.a{
+    display: flex;
+justify-content: space-between;
+background-color:rgb(124, 195, 219) ;
+}
+.c{
+    overflow: hidden;
+}
+.d{
+    color: white;
+    left: 50px;
+ top: 320px;
+ position: absolute;
+}
+.e{
+    position: absolute;
+    top: 440px;
+    left: 70px;
+
+}
+.e button{ padding: 0.75rem;
+border-radius: 0px;
+
+
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 10px;
+    gap: 40px;
+}
+.f{
+    background-color: rgb(124, 195, 219);
+    height: 200px;
+    width: 290px;
+}
+.f button{
+    position: relative;
+    top: 14px;
+    left: 70px;
+    width: 52px;
+}
+.f input{
+    position: relative;
+    left: 90px;
+}
+.f h5{
+    position: relative;
+    left: 90px;
+}
+.g{
+    height: 200px;
+    width: 290px;
+    background-color: rgb(124, 195, 219);
+}
+.h{
+    
+    height: 200px;
+    background-color: rgb(124, 195, 219);
+    width: 290px;
+}
+.g hr{
+    position: relative;
+    top: 60px;
+width: 210px;
+}
+.g button{
+    position: relative;
+    top: 80px;
+    left: -50px;
+    width: 52px;
+}
+.g select{
+    position: relative;
+    left: 90px;
+    top: 20px;
+}
+.g h5{
+    position: relative;
+    left: 90px;}
+    .h button{
+        position: relative;
+        top: 14px;
+        left: 70px;
+        width: 52px;
+    }
+    .h input{
+        position: relative;
+        left: 90px;
+    }
+    .h h5{
+        position: relative;
+        left: 90px;}
+        .i{
+            background-color: rgb(124, 195, 219);
+             
+             height: 400px;
+        }
+            
+    
+        .i img{
+            height: 32 0px;
+            width: 400px; 
+            position: relative;
+            top: 70px;
+            left: 20px;
+        }
+        .k p{
+            position: relative;
+            left: 460px;
+            top: -140px;
+            
+        }
+        .l button{
+            position: relative;
+            top: -120px;
+        left: 560px;
+        }
+        
+        body{
+            overflow: auto;
+        }
+        .z{
+            background-color: rgb(32, 32, 32);
+            color: white;
+        }
+        .z ul{
+            position: relative;
+            right: -700px;
+            top: -99px;
+        }
+        .h button:hover{
+            background-color: rgb(79, 77, 179);
+        }
